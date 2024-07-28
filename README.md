@@ -1,3 +1,3 @@
-This is a minimal Go backend API service based on: https://cloud.google.com/run/docs/quickstarts/build-and-deploy/deploy-go-service
+# GO - Learning
 
-Server should be run automatically when starting a workspace. Use `go run main.go` to run manually.
+### This repository contains my GO language learning materials, including tutorials, code samples, and practice projects aimed at building proficiency in "GO".
