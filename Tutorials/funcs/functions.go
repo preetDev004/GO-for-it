@@ -55,7 +55,6 @@ func isEligible(age int) string {
 
 }
 
-// func main()
 func main() {
 	fmt.Println("Println is a function in fmt package!")
 	// funcitons here mostly works on copy of the values
