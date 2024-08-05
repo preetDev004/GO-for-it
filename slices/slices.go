@@ -57,5 +57,7 @@ func main() {
 	// }
 	for i, num := range slice { // iterate over the slice with range keyword.
 		fmt.Println(i, num)
+		
 	}
+	
 }
