@@ -1,2 +1,0 @@
-1. You can create your own package which works as library. To run a GO programe you need a main package which 
-    imports all other packages/libraries.
