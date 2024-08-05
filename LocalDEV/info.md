@@ -47,7 +47,7 @@ source ~/.bashrc
 go version
 ```
 
-## Step 5: Create a .new GO file
+## Step 5: Create a new GO file
 1. Open main.go in your preferred text editor and add the following code:
 ```go
 package main
@@ -61,10 +61,10 @@ func main() {
 
 ## Step 6: Build & Run your Go Program
 1. To build your program into an executable, run:
-```bash
+```go
 go build
 ```
 2. This will create an executable file in the current directory. You can run it with:
-```bash
+```go
 ./hello
 ```
