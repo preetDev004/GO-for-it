@@ -28,7 +28,7 @@ Go, also known as Golang, is an open-source programming language designed for si
 1. Open a terminal.
 2. Extract the downloaded archive:
 ```bash
-   tar -C /usr/local -xzf go1.x.linux-amd64.tar.gz
+tar -C /usr/local -xzf go1.x.linux-amd64.tar.gz
 ```
 
 ## (Optional) Step 3: Add Go to your PATH
