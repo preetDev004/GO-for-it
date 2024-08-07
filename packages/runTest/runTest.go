@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/preetDev004/GO-for-it/test"
+	"github.com/preetDev004/GO-for-it/run"
 
 )
 func printName(){
@@ -10,5 +10,5 @@ func printName(){
 }
 
 func main(){
-	test.Run(printName)
+	run.Run(printName)
 }
